@@ -1,0 +1,29 @@
+{
+	"files.associations": {
+		"array": "cpp",
+		"string_view": "cpp",
+		"initializer_list": "cpp",
+		"string": "cpp",
+		"atomic": "cpp",
+		"*.tcc": "cpp",
+		"deque": "cpp",
+		"unordered_map": "cpp",
+		"vector": "cpp",
+		"limits": "cpp",
+		"system_error": "cpp",
+		"rtc.h": "c",
+		"bit": "cpp",
+		"forward_list": "cpp",
+		"list": "cpp",
+		"algorithm": "cpp",
+		"executor": "cpp",
+		"io_context": "cpp",
+		"memory_resource": "cpp",
+		"memory": "cpp",
+		"random": "cpp",
+		"stdexcept": "cpp",
+		"tuple": "cpp",
+		"type_traits": "cpp"
+	},
+	"cortex-debug.variableUseNaturalFormat": true
+}
